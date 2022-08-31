@@ -1,7 +1,10 @@
+body {
+    background-color: #ECE8ED!important;
+}
+
 div.main-content {
     text-align: center;
     padding: 20px 30px;
-    margin: 10px;
 }
 
 .description {
